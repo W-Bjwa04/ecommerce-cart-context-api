@@ -1,6 +1,6 @@
 # MERN Shopping Cart with Tailwind CSS: A Practical Demo of React Context API for Global State Management
 
-A modern shopping cart application built with the MERN stack (MongoDB, Express.js, React, Node.js) and styled using Tailwind CSS. This project serves as a **demo for implementing React Context API** for managing global state, featuring interactive product cards and a dynamic cart interface with real-time updates.
+A modern shopping cart application built with the (React) and styled using Tailwind CSS. This project serves as a **demo for implementing React Context API** for managing global state, featuring interactive product cards and a dynamic cart interface with real-time updates.
 
 ## Features
 
@@ -16,15 +16,10 @@ A modern shopping cart application built with the MERN stack (MongoDB, Express.j
 - **Tailwind CSS Integration**  
   Fully styled with Tailwind CSS for a clean, modern, and mobile-friendly design.
 
-- **Scalable Design**  
-  Modular component structure for easy customization and scalability in larger projects.
 
 ## Tech Stack
 
 - **Frontend:** React, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **State Management:** Context API
-- **Database:** MongoDB (optional for backend integration)
 
 ## How to Use
 
